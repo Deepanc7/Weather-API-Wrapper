@@ -5,7 +5,6 @@ This is a wrapper service for the VisualCrossing Weather API, providing weather 
 ## Features
 - Weather data wrapper for VisualCrossing API.
 - Caching with Redis to optimize repeated requests.
-- Easy integration for .NET applications.
 
 ## Installation
 1. Clone the repository:
