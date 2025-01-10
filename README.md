@@ -1,4 +1,4 @@
-# WeatherAPI .NET Service
+# Weather API Wrapper .NET Service
 
 This is a wrapper service for the VisualCrossing Weather API, providing weather data with enhanced performance through a caching mechanism using Redis. The service fetches weather information and stores it in Redis for quick retrieval.
 
